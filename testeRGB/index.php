@@ -83,7 +83,7 @@ and open the template in the editor.
 
 			</main>
                     
-                        <div class="modal-overlay active">
+                        <div class="modal-overlay">
                             <div class="modal">
                                 <?php
                                     $servidor = "localhost";
